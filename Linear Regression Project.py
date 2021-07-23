@@ -20,7 +20,7 @@ import seaborn as sns
 # In[6]:
 
 
-advertising = pd.read_csv(r'D:\Ravi.Teja\Downloads\advertising.csv')
+advertising = pd.read_csv(r'C:\Users\aparn\Downloads\advertising.csv')
 
 #Dropping all the values where null is present
 advertising.dropna()
